@@ -1,0 +1,4 @@
+Rencana project:
+- Belajar git
+- Belajar bahasa Inggris
+- Belajar Asset Health
